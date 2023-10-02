@@ -1,3 +1,5 @@
+#include "CrabPCH.h"
+
 #include "Application.h"
 namespace Crab {
 
